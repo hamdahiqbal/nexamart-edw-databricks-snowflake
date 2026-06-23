@@ -273,23 +273,24 @@ Certainty discipline holds end to end: validation Check 9 confirms 0 ESTIMATED r
 *(The screenshots below are sourced directly from the Power BI dashboard `dashboard.pbix.zip` delivered in Phase 2).*
 
 ### 7.1 Supply Chain View: Inventory Health
-![Inventory Health](../NexaMart-M1-M2%20(dashboard)/dashboard%20screenshots/01_inventory_health.png)
+![Inventory Health](../NexaMart-M1-M2%20%28dashboard%29/screenshots/01_inventory_health.png)
 *Figure 7.1: VP Supply Chain Dashboard view highlighting store level stockout events and reconstructed Available To Promise (ATP) metrics.*
 
 ### 7.2 Sales Executive View
-![Sales Executive](../NexaMart-M1-M2%20(dashboard)/dashboard%20screenshots/02_sales_executive.png)
+![Sales Executive](../NexaMart-M1-M2%20%28dashboard%29/screenshots/02_sales_executive.png)
 *Figure 7.2: VP Sales Dashboard view proving that digital clickstream campaigns drove physical store conversions.*
 
 ### 7.3 Customer Journey
-![Customer Journey](../NexaMart-M1-M2%20(dashboard)/dashboard%20screenshots/03_customer_journey.png)
+![Customer Journey](../NexaMart-M1-M2%20%28dashboard%29/screenshots/03_customer_journey.png)
 *Figure 7.3: Customer Journey Dashboard view detailing the pipeline from acquisition to conversion.*
 
 ### 7.4 NexaLocal Seller Quality
-![NexaLocal Seller Quality](../NexaMart-M1-M2%20(dashboard)/dashboard%20screenshots/04_nexalocal_seller_quality.png)
+![NexaLocal Seller Quality](../NexaMart-M1-M2%20%28dashboard%29/screenshots/04_nexalocal_seller_quality.png)
 *Figure 7.4: Marketplace Manager Dashboard view strictly isolating Estimated Classified GMV from confirmed corporate revenue.*
 
 ### 7.5 Customer Journey Funnel
-![Customer Journey Funnel](../NexaMart-M1-M2%20(dashboard)/dashboard%20screenshots/05_customer_journey_funnel.png)
+![Customer Journey Funnel](../NexaMart-M1-M2%20%28dashboard%29/screenshots/05_customer_journey_funnel.png)
 *Figure 7.5: Executive view of the end to end customer funnel highlighting conversion rates.*
+
 
 
