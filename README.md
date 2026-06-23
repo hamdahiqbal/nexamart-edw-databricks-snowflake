@@ -61,8 +61,8 @@ This repository is heavily documented. Please refer to the primary milestone rep
 * **[Milestone 2 Report: Anomaly Resolution and Dashboards](NexaMart-M1-M2%20(report)/MILESTONE-2-REPORT.md)**
   Details the resolution of 24 severe data anomalies without deleting records under the Zero Deletion Policy, Gold rebuild logic, certainty segregated KPI logic, and final Executive Dashboard outputs.
 
-* **[Executive Briefing Presentation Script](nexamart_presentation_content.md)** and **[Executive Slide Deck (PPTX)](#insert_your_ppt_link_here)**
-  A high level executive slide script and presentation deck mapping the business value of the data warehouse pipeline directly to dashboard outputs.
+* **[Executive Slide Deck (PPTX)](#insert_your_ppt_link_here)**
+  A high level executive presentation deck mapping the business value of the data warehouse pipeline directly to dashboard outputs.
 
 ## Technical Constraints and Policies
 * **Strict Isolation:** All testing and transformations occur logically separated.
