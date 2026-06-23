@@ -290,6 +290,7 @@ Certainty discipline holds end to end: validation Check 9 confirms 0 ESTIMATED r
 
 ### 7.5 Customer Journey Funnel
 ![Customer Journey Funnel](../NexaMart-M1-M2%20%28dashboard%29/screenshots/05_customer_journey_funnel.png)
+
 *Figure 7.5: Executive view of the end to end customer funnel highlighting conversion rates.*
 
 
